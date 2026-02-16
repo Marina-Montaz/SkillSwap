@@ -1,0 +1,74 @@
+[
+  {
+    "skillId": 1,
+    "skillName": "Beginner Guitar Lessons",
+    "providerName": "Alex Martin",
+    "providerEmail": "alex@skillswap.com",
+    "price": 20,
+    "rating": 4.8,
+    "slotsAvailable": 3,
+    "description": "Acoustic guitar classes for complete beginners. We cover basic chords, finger placement, and strumming patterns to get you playing your first song in weeks.",
+    "image": "https://i.ibb.co/m2tMvX7n/guitar.jpg",
+    "category": "Music"
+  },
+  {
+    "skillId": 2,
+    "skillName": "Spoken English Practice",
+    "providerName": "Sara Hossain",
+    "providerEmail": "sara@skillswap.com",
+    "price": 10,
+    "rating": 4.6,
+    "slotsAvailable": 5,
+    "description": "Conversational English sessions specifically designed for non-native speakers to build confidence in daily communication and professional settings.",
+    "image": "https://i.ibb.co/Y9S0S8kz/english.jpg",
+    "category": "Language"
+  },
+  {
+    "skillId": 3,
+    "skillName": "Full-Stack Web Development",
+    "providerName": "Rahat Kabir",
+    "providerEmail": "rahat@dev.com",
+    "price": 50,
+    "rating": 4.9,
+    "slotsAvailable": 2,
+    "description": "Master React, Node.js, and MongoDB. Perfect for students looking to build their first portfolio-ready project with professional guidance.",
+    "image": "https://i.ibb.co/vYm6p6n/coding.jpg",
+    "category": "Coding"
+  },
+  {
+    "skillId": 4,
+    "skillName": "Vinyasa Yoga for Beginners",
+    "providerName": "Maya Thompson",
+    "providerEmail": "maya@yoga.com",
+    "price": 15,
+    "rating": 4.7,
+    "slotsAvailable": 8,
+    "description": "Start your morning with mindfulness. A gentle flow class focusing on breathing, flexibility, and building core strength for all body types.",
+    "image": "https://i.ibb.co/R7Y8D6z/yoga.jpg",
+    "category": "Health"
+  },
+  {
+    "skillId": 5,
+    "skillName": "Digital Photography 101",
+    "providerName": "David Chen",
+    "providerEmail": "david@photo.com",
+    "price": 30,
+    "rating": 4.5,
+    "slotsAvailable": 4,
+    "description": "Move beyond 'Auto' mode. Learn how to use Aperture, Shutter Speed, and ISO to capture stunning professional-grade portraits and landscapes.",
+    "image": "https://i.ibb.co/ZxbPzXW/photo.jpg",
+    "category": "Art"
+  },
+  {
+    "skillId": 6,
+    "skillName": "French Language Essentials",
+    "providerName": "Sophie Laurent",
+    "providerEmail": "sophie@lang.com",
+    "price": 25,
+    "rating": 4.8,
+    "slotsAvailable": 6,
+    "description": "Going to Paris? Learn essential travel phrases, basic grammar, and cultural etiquette to navigate France like a local.",
+    "image": "https://i.ibb.co/T0xNn6h/french.jpg",
+    "category": "Language"
+  }
+]
