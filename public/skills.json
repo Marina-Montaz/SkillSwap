@@ -7,8 +7,13 @@
     "price": 20,
     "rating": 4.8,
     "slotsAvailable": 3,
+<<<<<<< HEAD
     "description": "Acoustic guitar classes for complete beginners. We cover basic chords, finger placement, and strumming patterns to get you playing your first song in weeks.",
     "image": "https://i.ibb.co/m2tMvX7n/guitar.jpg",
+=======
+    "description": "Acoustic guitar classes for complete beginners.",
+    "image": "https://i.postimg.cc/m2tMvX7n/guitar.jpg",
+>>>>>>> 44e0da81d5067f19f4ab00bd6e2e9bc887d76101
     "category": "Music"
   },
   {
@@ -19,6 +24,7 @@
     "price": 10,
     "rating": 4.6,
     "slotsAvailable": 5,
+<<<<<<< HEAD
     "description": "Conversational English sessions specifically designed for non-native speakers to build confidence in daily communication and professional settings.",
     "image": "https://i.ibb.co/Y9S0S8kz/english.jpg",
     "category": "Language"
@@ -69,6 +75,10 @@
     "slotsAvailable": 6,
     "description": "Going to Paris? Learn essential travel phrases, basic grammar, and cultural etiquette to navigate France like a local.",
     "image": "https://i.ibb.co/T0xNn6h/french.jpg",
+=======
+    "description": "Conversational English sessions for non-native speakers.",
+    "image": "https://i.postimg.cc/Y9S0S8kz/english.jpg",
+>>>>>>> 44e0da81d5067f19f4ab00bd6e2e9bc887d76101
     "category": "Language"
   }
 ]
