@@ -2,25 +2,17 @@
   {
     "skillId": 1,
     "skillName": "Beginner Guitar Lessons",
-    "providerName": "Alex Martin",
-    "providerEmail": "alex@skillswap.com",
-    "price": 20,
+    "image": "https://images.unsplash.com/photo-1510915361894-db8b60106cb1?w=600",
+    "category": "Music",
     "rating": 4.8,
-    "slotsAvailable": 3,
-    "description": "Acoustic guitar classes for complete beginners.",
-    "image": "https://i.ibb.co/m2tMvX7n/guitar.jpg",
-    "category": "Music"
+    "price": 20
   },
   {
     "skillId": 2,
     "skillName": "Spoken English Practice",
-    "providerName": "Sara Hossain",
-    "providerEmail": "sara@skillswap.com",
-    "price": 10,
+    "image": "https://images.unsplash.com/photo-1543269865-cbf427effbad?w=600",
+    "category": "Language",
     "rating": 4.6,
-    "slotsAvailable": 5,
-    "description": "Conversational English sessions for non-native speakers.",
-    "image": "https://i.ibb.co/Y9S0S8kz/english.jpg",
-    "category": "Language"
+    "price": 10
   }
 ]

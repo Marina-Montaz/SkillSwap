@@ -13,18 +13,15 @@ const Home = () => {
     const [skills, setSkills] = useState([]);
 
     useEffect(() => {
-        // Fetching the 6+ skills from your public/skills.json [cite: 35]
         fetch("/skills.json")
             .then(res => res.json())
             .then(data => setSkills(data));
         
-        // Initializing AOS for subtle animations [cite: 16, 143]
         AOS.init({ duration: 1000 });
     }, []);
 
     return (
         <div className="space-y-16 pb-12">
-            {/* Hero Slider Section [cite: 66] */}
             <section className="mt-6">
                 <Swiper
                     modules={[Navigation, Pagination, Autoplay]}
@@ -48,10 +45,9 @@ const Home = () => {
                 </Swiper>
             </section>
 
-            {/* Popular Skills Section [cite: 67] */}
             <section>
                 <h2 className="text-3xl font-bold text-center mb-10" data-aos="fade-down">Popular Skills</h2>
-                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+                <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 p-4 md:p-10">
                     {skills.slice(0, 6).map(skill => (
                         <SkillCard key={skill.skillId} skill={skill} />
                     ))}

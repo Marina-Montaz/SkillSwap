@@ -9,27 +9,20 @@ SkillSwap is a user-friendly platform where people can exchange their expertise,
 SkillSwap allows users to browse various services, view detailed provider information, and manage their own service listings. The platform  emphasizes community learning and professional growth through a seamless service-sharing interface.
 
 ## ✨ Key Features
-* **Authentication**: Secure Email/Password and Google Social Login via Firebase.
-* **Dynamic Home Page**: Featuring a Hero Slider (Swiper.js) and a "Popular Services" section showing the top 6 services.
-* **Responsive Design**: Fully optimized for Mobile, Tablet, and Desktop using Tailwind CSS and DaisyUI.
-* **Interactive UI**: Subtle scroll animations powered by AOS (Animate On Scroll).
-* **Private Routes**: Secure "View Details" and "Dashboard" pages that require user login.
-* **Toast Notifications**: Real-time feedback for login, registration, and data actions using React-Hot-Toast.
+* Authentication: Secure Email/Password and Google Social Login via Firebase.
+* Dynamic Home Page: Featuring a Hero Slider (Swiper.js) and a "Popular Services" section showing the top 6 services.
+* Responsive Design: Fully optimized for Mobile, Tablet, and Desktop using Tailwind CSS and DaisyUI.
+* Interactive UI: Subtle scroll animations powered by AOS .
+* Private Routes: Secure "View Details" and "Dashboard" pages that require user login.
+* Toast Notifications: Real-time feedback for login, registration, and data actions using React-Hot-Toast.
 
 ## Technologies Used
-* **Frontend**: React.js, Tailwind CSS, DaisyUI.
-* **Routing**: React Router DOM (v6).
-* **Backend/Auth**: Firebase.
-* **Animations**: AOS (Animate On Scroll).
-* **Slider**: Swiper.js.
-* **Icons**: React-Icons.
+* Frontend: React.js, Tailwind CSS, DaisyUI.
+* Routing: React Router DOM (v6).
+* Backend/Auth: Firebase.
+* Animations: AOS (Animate On Scroll).
+* Slider: Swiper.js.
+* Icons: React-Icons.
 
-##  Local Setup Instructions
-To run this project locally, follow these steps:
 
-1. **Clone the repository**:
-   ```bash
-   git clone [https://github.com/your-username/skill-swap-client.git](https://github.com/your-username/skill-swap-client.git)
-   cd skill-swap-client
-   
    -->
